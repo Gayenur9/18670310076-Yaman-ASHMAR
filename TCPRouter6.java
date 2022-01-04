@@ -16,7 +16,7 @@ public class TCPRouter6
       {  
           try  
           {  
-        	  System.out.println("TCPRoute6 Başlatılıyor..\\nLocalhost'un ip Adresi Alınıyo..");
+        	  System.out.println("TCPRoute6 Başlatılıyor..\\n Localhost'un ip Adresi Alınıyo..");
         	  host = InetAddress.getLocalHost();  
           }  
           catch(Exception uhEx)  
